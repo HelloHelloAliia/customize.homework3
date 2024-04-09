@@ -1,0 +1,42 @@
+body{
+	font-family: fantasy;
+	background: paleturquoise;
+}
+header{
+	  text-align: center;
+}
+footer{
+	  text-align: center;
+
+}
+
+p {
+	color: green;
+	font-size: 20px;
+		border: 2px dotted red;
+
+}
+li {
+	color: limegreen;
+	font-size: 25px;
+		border: 2px dashed yellow;
+
+}
+h1 {	font-size: 22;
+		border: 2px dashed mediumpurple;
+
+
+}
+h2 {
+	font-size: 22;
+	color: black;
+
+}
+        ol {
+            background-color: cadetblue;
+        }
+
+         ul {
+            background-color: royalblue;
+        }
+
